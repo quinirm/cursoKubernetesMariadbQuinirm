@@ -14,3 +14,7 @@ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) V
 	
 INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES 
 	(2,"Luisa","Martinez","Palazon","Gran Via, 1","Bilbao");
+
+INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES 
+	(2,"Quini","R","M","Gran Via, 1","Madrid");
+
